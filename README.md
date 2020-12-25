@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 ![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/2)
 ![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/3)
 ![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/4)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/5)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/6)
 <!-- MEDIUM:END -->
 
 [linkedin]: https://www.linkedin.com/in/bhanuka-dissanayake/

@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on my Final year project : https://github.com/MT-DA-Platform
-- 🌱 I’m currently learning Time series data analysis/forecasting and Microservices.
+- 🔭 I’m currently working as Software Development Engineer at Calcey
+- 🌱 My interests are on Time series data analysis/forecasting and Microservices.
 - ⚡ Fun fact: I love to play cricket & sometimes I take photos :)
 
 

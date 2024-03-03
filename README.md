@@ -33,15 +33,15 @@ Here are some ideas to get you started:
 ### You can check my latest Blog Posts:
 
 <!-- MEDIUM:START -->
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/0)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/1)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/2)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/3)
-![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanuka-16/4)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanukadissanayake/0)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanukadissanayake/1)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanukadissanayake/2)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanukadissanayake/3)
+![my blogs](https://github-readme-medium-recent-article.vercel.app/medium/@bhanukadissanayake/4)
 <!-- MEDIUM:END -->
 
 [linkedin]: https://www.linkedin.com/in/bhanuka-dissanayake/
-[medium]: https://medium.com/@bhanuka.16
+[medium]: https://medium.com/@bhanukadissanayake
 [facebook]: https://www.facebook.com/bhanuka.dissanayake.9
 [twitter]: https://twitter.com/bhanukad610
 [instagram]: https://www.instagram.com/bhanuka_dissanayake_/

@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Software Development Engineer at Calcey
-- 🌱 My interests are on Time series data analysis/forecasting and Microservices.
+- 🔭 I’m currently working as a Software Development Engineer at Corzent
+- 🌱 My interests are on Software Development, Cloud computing and Data Science
 - ⚡ Fun fact: I love to play cricket & sometimes I take photos :)
 
 
